@@ -1,0 +1,9 @@
+c:\users\juancho\documents\visual studio 2015\Projects\Peaje\Peaje\bin\Debug\Peaje.exe.config
+c:\users\juancho\documents\visual studio 2015\Projects\Peaje\Peaje\bin\Debug\Peaje.exe
+c:\users\juancho\documents\visual studio 2015\Projects\Peaje\Peaje\bin\Debug\Peaje.pdb
+c:\users\juancho\documents\visual studio 2015\Projects\Peaje\Peaje\obj\Debug\Peaje.csprojResolveAssemblyReference.cache
+c:\users\juancho\documents\visual studio 2015\Projects\Peaje\Peaje\obj\Debug\Peaje.frmPeaje.resources
+c:\users\juancho\documents\visual studio 2015\Projects\Peaje\Peaje\obj\Debug\Peaje.Properties.Resources.resources
+c:\users\juancho\documents\visual studio 2015\Projects\Peaje\Peaje\obj\Debug\Peaje.csproj.GenerateResource.Cache
+c:\users\juancho\documents\visual studio 2015\Projects\Peaje\Peaje\obj\Debug\Peaje.exe
+c:\users\juancho\documents\visual studio 2015\Projects\Peaje\Peaje\obj\Debug\Peaje.pdb
